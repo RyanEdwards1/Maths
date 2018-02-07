@@ -20,7 +20,7 @@
 
 GCD = 1
 ```
-#### **Least Common Divisor**
+#### **Least Common Multiple**
 
 
 
