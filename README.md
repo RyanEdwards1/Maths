@@ -20,24 +20,9 @@
 
 GCD = 1```
 
+#### Least Common Divisor
 
-A example of Greatest common divisor is using these numbers: 10 44 33 27 19 55 87
-I will show you how to work out the GCD:
-10 = 2×5
 
-44 = 22×11
-
-33 = 3×11
-
-27 = 33
-
-19 = 19
-
-55 = 5×11
-
-87 = 3×29
-
-GCD = 1
 
 
 ### Arithmetic and Geometric progressions
