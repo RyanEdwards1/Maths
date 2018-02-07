@@ -22,6 +22,17 @@ GCD = 1
 ```
 #### **Least Common Multiple**
 
+##### A common multiple is a number that is a multiple of two or more numbers. The common multiples of 3 and 4 are 0, 12, 24. So the Least common multiple is the number that both of the numbers contain which is not zero which in this case would be 12.
+
+##### An example of Least Common Multiple:
+
+```Numbers: 3 and 5 
+
+The multiples of 3 are 3, 6, 9, 12, (15), 18
+The multiples of 5 are 5, 10, (15), 20, 25
+
+As you can see the lowest common multiple is 15
+```
 
 
 
