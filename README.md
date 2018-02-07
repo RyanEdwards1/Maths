@@ -1,6 +1,7 @@
 # Maths
 ### How to calculate the greatest common divisor and least common multiple of a given pair of numbers.
-
+#### Greatest Common Divisor
+##### 
 
 ### Arithmetic and Geometric progressions
 ##### The code below is a working sum that can do arithmetic and geometric progressions:
