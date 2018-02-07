@@ -18,8 +18,8 @@
 
 87 = 3×29
 
-GCD = 1```
-
+GCD = 1
+```
 #### Least Common Divisor
 
 
