@@ -1,6 +1,6 @@
 # Maths
 ### How to calculate the greatest common divisor and least common multiple of a given pair of numbers.
-#### Greatest Common Divisor
+#### **Greatest Common Divisor**
 ##### Greatest common divisor of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. For example, the GCD of 8 and 12 is 4. It is also know and highest common factor. 
 ##### A example of Greatest common divisor is using these numbers: 10 44 33 27 19 55 87
 ##### I will show you how to work out the GCD:
@@ -20,7 +20,7 @@
 
 GCD = 1
 ```
-#### Least Common Divisor
+#### **Least Common Divisor**
 
 
 
