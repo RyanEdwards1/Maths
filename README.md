@@ -4,7 +4,7 @@
 
 ### Arithmetic and Geometric progressions
 ##### The code below is a working sum that can do arithmetic and geometric progressions:
-'''#include <iostream> /*Libary*/
+```#include <iostream> /*Libary*/
 #include <time.h>
 
 
@@ -29,4 +29,4 @@ cout << geometric << "\n";
 cout << geometric2 << "\n";
 cout << geometric3 << "\n";
 }
-'''
+```
