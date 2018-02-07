@@ -30,3 +30,4 @@ cout << geometric2 << "\n";
 cout << geometric3 << "\n";
 }
 ```
+
