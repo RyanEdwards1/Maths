@@ -38,8 +38,7 @@ As you can see the lowest common multiple is 15
 
 ### Arithmetic and Geometric progressions
 ##### The code below is a working sum that can do arithmetic and geometric progressions:
-``
-#include <iostream>
+``` #include <iostream>
 	
 
 	using namespace std;
