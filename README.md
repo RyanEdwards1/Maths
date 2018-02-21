@@ -38,30 +38,28 @@ As you can see the lowest common multiple is 15
 
 ### Arithmetic and Geometric progressions
 ##### The code below is a working sum that can do arithmetic and geometric progressions:
-```#include <iostream> /*Libary*/
-#include <time.h>
+``
+#include <iostream>
+	
 
+	using namespace std;
+	
 
-using namespace std;
-
-int main () {
-  
-int input;
-
-cout << "Enter a number" << "\n";
-
-cin >> input;
-
-int geometric = input + input;
-
-int geometric2 = geometric + input;
-
-int geometric3 = geometric2 + input;
-
-cout << "Geometric Number: " "\n";
-cout << geometric << "\n";
-cout << geometric2 << "\n";
-cout << geometric3 << "\n";
-}
+	int main(){
+	  int a, sum, geo = 1;
+	  cout << "Number";
+	  cin >> a;
+	  
+	  
+	  for (int i=1; i <= 10; i++){
+	    sum += a;
+	    geo *= a;
+	    cout << "Iteration: " << i << endl;
+	    cout << "Airthmetic: " << sum  << endl;
+	    cout << "Geometric: " << geo << endl;
+	    cout << endl;
+	  }
+	  return 0;
+	}
 ```
 
