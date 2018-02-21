@@ -73,4 +73,4 @@ Conditional probability is the probability that an event will occur in a random 
 Above is the random selection event only possible from a finite set of inputs. The selection is always mad form a finite set which is repeated. Each time a selection is made it is from a bigger set 
 
 ### Simple Shapes using Co-ordinate geometry
-There are two main formulas that you need to know firstly the Distance Formula which is     . The use of the distance formula is the distance between two points so this can be used to see parallel lines or to see certain shapes like a parallelogram which has four parallel sides
+There are two main formulas that you need to know firstly the Distance Formula which is ![ssss](https://user-images.githubusercontent.com/31927415/36477740-301f8882-16fa-11e8-9dbf-4bdf5f781cdd.PNG)    . The use of the distance formula is the distance between two points so this can be used to see parallel lines or to see certain shapes like a parallelogram which has four parallel sides
