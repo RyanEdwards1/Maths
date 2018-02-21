@@ -60,3 +60,7 @@ As you can see the lowest common multiple is 15
 	  }
 	  return 0;
 	} 
+```
+
+### Conditional Probability 
+Conditional probability is the probability that an event will occur in a random experiment. For example, suppose a fair dice has been rolled and you are asked to guess the probability that it was a five. There are six equally likely outcomes because of the six sides on the dice are the same size and weighted evenly. so your answer is 1/6. Suppose that before you give your answer you are given the information that the number rolled was even. This makes your chances 1/3 which is a very good increase in chance of guessing correctly.
