@@ -75,4 +75,4 @@ Above is the random selection event only possible from a finite set of inputs. T
 ### Simple Shapes using Co-ordinate geometry
 There are two main formulas that you need to know firstly the Distance Formula which is ![ssss](https://user-images.githubusercontent.com/31927415/36477740-301f8882-16fa-11e8-9dbf-4bdf5f781cdd.PNG)    . The use of the distance formula is the distance between two points so this can be used to see parallel lines or to see certain shapes like a parallelogram which has four parallel sides.
 
-The other important formula is the Slope Formula which is    . This formula is used to calculate the angles inside of shapes to then acknowledge which shape it could be.   
+The other important formula is the Slope Formula which is ![dd](https://user-images.githubusercontent.com/31927415/36477952-e5c7f020-16fa-11e8-9a8f-9a6b0b88e563.PNG) . This formula is used to calculate the angles inside of shapes to then acknowledge which shape it could be.   
