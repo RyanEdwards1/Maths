@@ -68,3 +68,6 @@ Conditional probability is the probability that an event will occur in a random 
 ![captaaure](https://user-images.githubusercontent.com/31927415/36474138-7c5e555e-16ee-11e8-997e-954836d39d5a.PNG)
 
 ### Event Occurring from a Discrete, Random Variable
+![capturre](https://user-images.githubusercontent.com/31927415/36476634-5e589bac-16f6-11e8-83ad-c865fdd0e82e.PNG)
+
+Above is the random selection event only possible from a finite set of inputs. The selection is always mad form a finite set which is repeated. Each time a selection is made it is from a bigger set 
