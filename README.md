@@ -106,7 +106,7 @@ vector is a quantity or phenomenon that has two independent properties: magnitud
 
 To scale shapes and identify shape parameters I have created a formula that you can use to scale a shape using vector methods here is the code below:
 
-<html>
+```<html>
 <body>
 
 <canvas id="myCanvas" width="300" height="150" style="border:1px solid #d3d3d3;"></canvas>
@@ -209,3 +209,4 @@ function shape(){
 
 </body>
 </html>
+```
