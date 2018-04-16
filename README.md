@@ -86,4 +86,5 @@ In general, and average rate a change function is a process that calculates the 
 ![rate of change](https://user-images.githubusercontent.com/31927415/38804849-c05e86aa-416b-11e8-9033-86a8a500f5ba.PNG)
 
 Some examples of Rate of Change are:
+![rate of change examples](https://user-images.githubusercontent.com/31927415/38804903-e84ca9ee-416b-11e8-9c6d-ff6d5c901681.PNG)
 
