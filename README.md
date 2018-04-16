@@ -78,3 +78,12 @@ There are two main formulas that you need to know firstly the Distance Formula w
 The other important formula is the Slope Formula which is ![dd](https://user-images.githubusercontent.com/31927415/36477952-e5c7f020-16fa-11e8-9a8f-9a6b0b88e563.PNG) . This formula is used to calculate the angles inside of shapes to then acknowledge which shape it could be.   
 
 ![as](https://user-images.githubusercontent.com/31927415/36477985-145148e2-16fb-11e8-9998-11cc56075bd0.PNG)
+
+### Determine the rate of change within an algebraic function
+Average rate of change is the average rate that one value is changing with respect to another thing changing. We are familiar with some average rate of change calculations such as ‘Miles per gallon’ which is calculated by dividing the number of miles by the number of gallons used. Another is ‘Cost per kilowatt’ calculated by dividing the cost of the electricity by the number of kilowatts used. And ‘Miles per hour’ calculated by dividing the number of miles travelled by the number of hours it takes to travel them.
+
+In general, and average rate a change function is a process that calculates the amount of change in one item divided by the corresponding amount of change in another. Using this function:
+![rate of change](https://user-images.githubusercontent.com/31927415/38804849-c05e86aa-416b-11e8-9033-86a8a500f5ba.PNG)
+
+Some examples of Rate of Change are:
+
