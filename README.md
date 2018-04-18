@@ -86,13 +86,14 @@ In general, and average rate a change function is a process that calculates the 
 ![rate of change](https://user-images.githubusercontent.com/31927415/38804849-c05e86aa-416b-11e8-9033-86a8a500f5ba.PNG)
 
 Some examples of Rate of Change are:
+
 	``` F(x) = x²
 		Rate of change from 1 to 3
 		(3² - 1²) / (3-1) = (9-1) / (3-1) = 8/2 = 4. Binary = 0100
 		
 	    F(x) = 2x+3
 	    	Rate of change from 10 to 100
-		(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2. Hex Decimal = 2
+		(2*100+3) - (2*10+3) / (100 - 10) = 180/90 = 2. Hex Decimal = 2 ``` 
 
 ### Use integral calculus to solve practical problems involving area
 Intergral calculas is used to calculate whats inside a curve, if the shape is normal or common then you don't have to use integral calculus. However if the shape is more complex, then you can use the given a and b points on a graph to work out the area of a to b
